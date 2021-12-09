@@ -125,7 +125,7 @@ router.get("/", (req, res) => {
         "height": 748,
         "uri": "https://example.com/create-iframe-contents",
         "label": "Create Ticket"
-      }
+      } 
     });
 });
 
